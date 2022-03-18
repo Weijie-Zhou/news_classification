@@ -1,0 +1,828 @@
+2022-03-17 21:07:11,243 - INFO - server.py: 29 - start_server() - server starts port 8000
+2022-03-17 21:07:16,247 - INFO - _internal.py: 113 - _log() -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2022-03-17 21:07:32,712 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:07:32] "[37mGET / HTTP/1.1[0m" 200 -
+2022-03-17 21:07:33,078 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:07:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-03-17 21:13:22,521 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:13:22] "[31m[1mPOST /cls HTTP/1.1[0m" 405 -
+2022-03-17 21:14:06,615 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:14:06] "[31m[1mPOST /cls HTTP/1.1[0m" 405 -
+2022-03-17 21:14:47,776 - INFO - server.py: 29 - start_server() - server starts port 8000
+2022-03-17 21:14:52,785 - INFO - _internal.py: 113 - _log() -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2022-03-17 21:14:58,992 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:14:58] "[37mGET / HTTP/1.1[0m" 200 -
+2022-03-17 21:22:34,187 - INFO - server.py: 36 - start_server() - server starts port 8000
+2022-03-17 21:22:39,193 - INFO - _internal.py: 113 - _log() -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+2022-03-17 21:22:39,772 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:22:39] "[37mGET / HTTP/1.1[0m" 200 -
+2022-03-17 21:23:54,659 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:23:54,839 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.1804828643798828s
+2022-03-17 21:23:54,840 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:23:54] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:32,194 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:32,324 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.13010787963867188s
+2022-03-17 21:24:32,325 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:32] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:33,875 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:33,991 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.1159660816192627s
+2022-03-17 21:24:33,992 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:34,705 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:34,821 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.1165308952331543s
+2022-03-17 21:24:34,822 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:34] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:37,911 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:38,032 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.12079787254333496s
+2022-03-17 21:24:38,033 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:38,644 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:38,771 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.12652277946472168s
+2022-03-17 21:24:38,771 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:39,319 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:39,442 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.12328600883483887s
+2022-03-17 21:24:39,443 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:39,950 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:40,074 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.1239159107208252s
+2022-03-17 21:24:40,075 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:40] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:40,605 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:40,727 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.12120223045349121s
+2022-03-17 21:24:40,727 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:40] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:41,199 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:41,320 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.12160205841064453s
+2022-03-17 21:24:41,321 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:41] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:41,867 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:41,993 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.12621188163757324s
+2022-03-17 21:24:41,993 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:41] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:42,459 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:42,581 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.12211203575134277s
+2022-03-17 21:24:42,582 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:42] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:43,105 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:43,226 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.12083196640014648s
+2022-03-17 21:24:43,227 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:43] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:43,663 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:43,778 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.11447000503540039s
+2022-03-17 21:24:43,778 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:43] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:50,120 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:50,242 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.12128996849060059s
+2022-03-17 21:24:50,242 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:50] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:24:51,337 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 郑智连续2年专砍领头羊一击便冲垮400分钟0失球防线 ...
+2022-03-17 21:24:51,455 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.1178901195526123s
+2022-03-17 21:24:51,456 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:24:51] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:25:02,260 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:25:02] "[37mGET / HTTP/1.1[0m" 200 -
+2022-03-17 21:26:29,539 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 美国3月ISM制造业指数为59.6 前值为56.5 ...
+2022-03-17 21:26:29,677 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.1373310089111328s
+2022-03-17 21:26:29,677 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:26:29] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:26:46,057 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 美国3月ISM制造业指数为59.6 前值为56.5 ...
+2022-03-17 21:26:46,191 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.13450002670288086s
+2022-03-17 21:26:46,192 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:26:46] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:27:04,535 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 吴宗宪：今年“裸退”台湾娱乐圈(图) ...
+2022-03-17 21:27:04,652 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.11774420738220215s
+2022-03-17 21:27:04,653 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:27:04] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:27:06,328 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 吴宗宪：今年“裸退”台湾娱乐圈(图) ...
+2022-03-17 21:27:06,440 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.11187887191772461s
+2022-03-17 21:27:06,441 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:27:06] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:27:07,190 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 吴宗宪：今年“裸退”台湾娱乐圈(图) ...
+2022-03-17 21:27:07,304 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.11389374732971191s
+2022-03-17 21:27:07,304 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:27:07] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:27:14,505 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:27:14,634 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.12865996360778809s
+2022-03-17 21:27:14,635 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:27:14] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:27:22,794 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:27:22,954 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.16054296493530273s
+2022-03-17 21:27:22,955 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:27:22] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:28:37,799 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:28:37,802 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:28:37] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:29:08,154 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:29:08,154 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:29:08] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:29:42,370 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:29:42,371 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:29:42] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:30:05,124 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:30:05] "[37mGET / HTTP/1.1[0m" 200 -
+2022-03-17 21:31:24,834 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:31:24,835 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:31:24] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:31:27,804 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:31:27,805 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:31:27] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:31:28,636 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:31:28,636 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:31:28] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:31:29,315 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:31:29,317 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:31:29] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:31:30,061 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:31:30,062 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:31:30] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:33:28,779 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:33:28] "[37mGET / HTTP/1.1[0m" 200 -
+2022-03-17 21:34:33,462 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:34:33,584 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.12186288833618164s
+2022-03-17 21:34:33,584 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:34:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:35:26,610 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:35:26,725 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.11523294448852539s
+2022-03-17 21:35:26,725 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:35:26] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:35:27,742 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:35:27,851 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.10935306549072266s
+2022-03-17 21:35:27,852 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:35:27] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:35:28,444 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:35:28,551 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.10679101943969727s
+2022-03-17 21:35:28,552 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:35:28] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:35:29,161 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:35:29,278 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.11655426025390625s
+2022-03-17 21:35:29,278 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:35:29] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:36:24,553 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:36:24,554 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:36:24] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:36:25,500 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:36:25,501 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:36:25] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:36:26,217 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:36:26,217 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:36:26] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:36:36,374 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:36:36,538 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.1645650863647461s
+2022-03-17 21:36:36,539 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:36:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:36:37,494 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:36:37,607 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.11310100555419922s
+2022-03-17 21:36:37,607 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:36:37] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:36:38,278 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:36:38,394 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.11581110954284668s
+2022-03-17 21:36:38,395 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:36:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:36:39,186 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:36:39,311 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.12445998191833496s
+2022-03-17 21:36:39,311 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:36:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:36:40,055 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:36:40,166 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.11048436164855957s
+2022-03-17 21:36:40,167 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:36:40] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:36:44,485 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:36:44,486 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:36:44] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:36:45,438 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:36:45,439 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:36:45] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:37:10,151 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:37:10,153 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:37:10] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:37:14,294 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:37:14,294 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:37:14] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:39:15,907 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:39:15,909 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:39:15] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:39:19,738 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:39:19,860 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.12222003936767578s
+2022-03-17 21:39:19,860 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:39:19] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:39:22,744 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:39:22,856 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.11222100257873535s
+2022-03-17 21:39:22,857 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:39:22] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:39:23,591 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:39:23,703 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.11226415634155273s
+2022-03-17 21:39:23,704 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:39:23] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:39:24,386 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:39:24,500 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.11335611343383789s
+2022-03-17 21:39:24,500 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:39:24] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:40:25,206 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:40:25,206 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:40:25] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:40:26,315 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:40:26,316 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:40:26] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:40:31,485 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:40:31,485 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:40:31] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:40:32,464 - ERROR - app.py: 1892 - log_exception() - Exception on /cls [POST]
+Traceback (most recent call last):
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 467, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask/views.py", line 89, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/apple/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/flask_restful/__init__.py", line 582, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/apple/Desktop/面试/中文新闻文本标题分类/online/http/resources/classification_resource.py", line 27, in post
+    request_id = data.get('request_id') # 支持传入request_id，便于线上追踪请求
+AttributeError: 'NoneType' object has no attribute 'get'
+2022-03-17 21:40:32,465 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:40:32] "[35m[1mPOST /cls HTTP/1.1[0m" 500 -
+2022-03-17 21:40:53,481 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:40:53] "[31m[1mPOST /cls HTTP/1.1[0m" 400 -
+2022-03-17 21:41:02,405 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:41:02,547 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.14183712005615234s
+2022-03-17 21:41:02,548 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:41:02] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:41:04,998 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:41:05,130 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.13173294067382812s
+2022-03-17 21:41:05,130 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:41:05] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:41:05,767 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:41:05,899 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.1320641040802002s
+2022-03-17 21:41:05,899 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:41:05] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:41:06,466 - INFO - classification_resource.py: 33 - post() - request_id: 7398738, content: 交银国际：继续紧缩表像诱惑投资者看空银行股 ...
+2022-03-17 21:41:06,597 - INFO - classification_resource.py: 44 - post() - request_id: 7398738, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.13132596015930176s
+2022-03-17 21:41:06,598 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:41:06] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:45:39,262 - INFO - classification_resource.py: 33 - post() - request_id: 0, content: 网民市民集体幻想中奖后如果你中了9000万怎么办 ...
+2022-03-17 21:45:39,454 - INFO - classification_resource.py: 44 - post() - request_id: 0, result: {"status": "OK", "msg": "", "result": "彩票"} ..., cost time: 0.19230318069458008s
+2022-03-17 21:45:39,455 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:45:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:45:50,729 - INFO - classification_resource.py: 33 - post() - request_id: 0, content: 网民市民集体幻想中奖后如果你中了9000万怎么办 ...
+2022-03-17 21:45:50,879 - INFO - classification_resource.py: 44 - post() - request_id: 0, result: {"status": "OK", "msg": "", "result": "彩票"} ..., cost time: 0.14964604377746582s
+2022-03-17 21:45:50,879 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:45:50] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:13,345 - INFO - classification_resource.py: 33 - post() - request_id: 0, content: 网民市民集体幻想中奖后如果你中了9000万怎么办 ...
+2022-03-17 21:46:13,496 - INFO - classification_resource.py: 44 - post() - request_id: 0, result: {"status": "OK", "msg": "", "result": "彩票"} ..., cost time: 0.15045881271362305s
+2022-03-17 21:46:13,496 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:13] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:42,877 - INFO - classification_resource.py: 33 - post() - request_id: 0, content: 网民市民集体幻想中奖后如果你中了9000万怎么办 ...
+2022-03-17 21:46:43,111 - INFO - classification_resource.py: 44 - post() - request_id: 0, result: {"status": "OK", "msg": "", "result": "彩票"} ..., cost time: 0.23450088500976562s
+2022-03-17 21:46:43,112 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:43] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:43,116 - INFO - classification_resource.py: 33 - post() - request_id: 1, content: PVC期货有望5月挂牌 ...
+2022-03-17 21:46:43,218 - INFO - classification_resource.py: 44 - post() - request_id: 1, result: {"status": "OK", "msg": "", "result": "财经"} ..., cost time: 0.10228419303894043s
+2022-03-17 21:46:43,219 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:43] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:43,227 - INFO - classification_resource.py: 33 - post() - request_id: 2, content: 午时三刻新作《幻神录―宿命情缘》 ...
+2022-03-17 21:46:43,328 - INFO - classification_resource.py: 44 - post() - request_id: 2, result: {"status": "OK", "msg": "", "result": "游戏"} ..., cost time: 0.10120105743408203s
+2022-03-17 21:46:43,329 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:43] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:43,333 - INFO - classification_resource.py: 33 - post() - request_id: 3, content: 欧司朗LLFY网络提供一站式照明解决方案 ...
+2022-03-17 21:46:43,438 - INFO - classification_resource.py: 44 - post() - request_id: 3, result: {"status": "OK", "msg": "", "result": "家居"} ..., cost time: 0.10535717010498047s
+2022-03-17 21:46:43,439 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:43] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:43,443 - INFO - classification_resource.py: 33 - post() - request_id: 4, content: 试探北京楼市向何方：排不完的队　涨不够的价 ...
+2022-03-17 21:46:43,542 - INFO - classification_resource.py: 44 - post() - request_id: 4, result: {"status": "OK", "msg": "", "result": "房产"} ..., cost time: 0.09881019592285156s
+2022-03-17 21:46:43,542 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:43] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:43,546 - INFO - classification_resource.py: 33 - post() - request_id: 5, content: 个性测试：测你的生活无趣指数(图) ...
+2022-03-17 21:46:43,700 - INFO - classification_resource.py: 44 - post() - request_id: 5, result: {"status": "OK", "msg": "", "result": "星座"} ..., cost time: 0.15403199195861816s
+2022-03-17 21:46:43,701 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:43] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:43,704 - INFO - classification_resource.py: 33 - post() - request_id: 6, content: 浙江女排战前遇下马威天津球迷微博发出“威胁” ...
+2022-03-17 21:46:43,817 - INFO - classification_resource.py: 44 - post() - request_id: 6, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.1130671501159668s
+2022-03-17 21:46:43,818 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:43] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:43,822 - INFO - classification_resource.py: 33 - post() - request_id: 7, content: 澳央行行长重申未来需要加息 ...
+2022-03-17 21:46:43,906 - INFO - classification_resource.py: 44 - post() - request_id: 7, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.08457803726196289s
+2022-03-17 21:46:43,907 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:43] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:43,911 - INFO - classification_resource.py: 33 - post() - request_id: 8, content: 海地总统选举第二轮投票将推迟举行 ...
+2022-03-17 21:46:44,003 - INFO - classification_resource.py: 44 - post() - request_id: 8, result: {"status": "OK", "msg": "", "result": "时政"} ..., cost time: 0.09273719787597656s
+2022-03-17 21:46:44,004 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:44] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:44,008 - INFO - classification_resource.py: 33 - post() - request_id: 9, content: 苹果中国学生机开卖最高优惠1600元 ...
+2022-03-17 21:46:44,100 - INFO - classification_resource.py: 44 - post() - request_id: 9, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.09255695343017578s
+2022-03-17 21:46:44,101 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:44] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:44,104 - INFO - classification_resource.py: 33 - post() - request_id: 10, content: 黄金分割位有支撑短期股指有望止跌企稳 ...
+2022-03-17 21:46:44,201 - INFO - classification_resource.py: 44 - post() - request_id: 10, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.09640622138977051s
+2022-03-17 21:46:44,201 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:44] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:44,205 - INFO - classification_resource.py: 33 - post() - request_id: 11, content: 英国政府建议各部门每天发布2-10条微博客 ...
+2022-03-17 21:46:44,306 - INFO - classification_resource.py: 44 - post() - request_id: 11, result: {"status": "OK", "msg": "", "result": "时政"} ..., cost time: 0.10035920143127441s
+2022-03-17 21:46:44,306 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:44] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:44,310 - INFO - classification_resource.py: 33 - post() - request_id: 12, content: 网游“吸金”新玩法 ...
+2022-03-17 21:46:44,385 - INFO - classification_resource.py: 44 - post() - request_id: 12, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.07546114921569824s
+2022-03-17 21:46:44,386 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:44] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:44,389 - INFO - classification_resource.py: 33 - post() - request_id: 13, content: 短讯-阿森纳之王表态不回欧洲亨利在欧洲已赢得一切 ...
+2022-03-17 21:46:44,497 - INFO - classification_resource.py: 44 - post() - request_id: 13, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.10747098922729492s
+2022-03-17 21:46:44,497 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:44] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:44,502 - INFO - classification_resource.py: 33 - post() - request_id: 14, content: 美男子因不满银行一怒推平豪宅 ...
+2022-03-17 21:46:44,597 - INFO - classification_resource.py: 44 - post() - request_id: 14, result: {"status": "OK", "msg": "", "result": "房产"} ..., cost time: 0.09513592720031738s
+2022-03-17 21:46:44,597 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:44] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:44,603 - INFO - classification_resource.py: 33 - post() - request_id: 15, content: 刘孜喜得贵子不退出娱乐圈儿子名字叫NEMO ...
+2022-03-17 21:46:44,702 - INFO - classification_resource.py: 44 - post() - request_id: 15, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.0991508960723877s
+2022-03-17 21:46:44,703 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:44] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:44,707 - INFO - classification_resource.py: 33 - post() - request_id: 16, content: 智能图像调节索尼46寸液晶再次降价 ...
+2022-03-17 21:46:44,804 - INFO - classification_resource.py: 44 - post() - request_id: 16, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.09720277786254883s
+2022-03-17 21:46:44,805 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:44] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:44,808 - INFO - classification_resource.py: 33 - post() - request_id: 17, content: 特别奉献：08-09赛季德甲威廉希尔-SSP赔率回顾 ...
+2022-03-17 21:46:44,916 - INFO - classification_resource.py: 44 - post() - request_id: 17, result: {"status": "OK", "msg": "", "result": "彩票"} ..., cost time: 0.1079721450805664s
+2022-03-17 21:46:44,917 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:44] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:44,921 - INFO - classification_resource.py: 33 - post() - request_id: 18, content: 空姐利用反恐技能智斗绑匪助破抢劫杀人大案 ...
+2022-03-17 21:46:45,017 - INFO - classification_resource.py: 44 - post() - request_id: 18, result: {"status": "OK", "msg": "", "result": "社会"} ..., cost time: 0.09624004364013672s
+2022-03-17 21:46:45,017 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:45] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:46:45,021 - INFO - classification_resource.py: 33 - post() - request_id: 19, content: 中国人寿母公司减持金隅300万股 ...
+2022-03-17 21:46:45,134 - INFO - classification_resource.py: 44 - post() - request_id: 19, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.11272311210632324s
+2022-03-17 21:46:45,134 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:46:45] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:30,075 - INFO - classification_resource.py: 33 - post() - request_id: 0, content: 网民市民集体幻想中奖后如果你中了9000万怎么办 ...
+2022-03-17 21:51:30,213 - INFO - classification_resource.py: 44 - post() - request_id: 0, result: {"status": "OK", "msg": "", "result": "彩票"} ..., cost time: 0.13819193840026855s
+2022-03-17 21:51:30,214 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:30] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:30,219 - INFO - classification_resource.py: 33 - post() - request_id: 1, content: PVC期货有望5月挂牌 ...
+2022-03-17 21:51:30,316 - INFO - classification_resource.py: 44 - post() - request_id: 1, result: {"status": "OK", "msg": "", "result": "财经"} ..., cost time: 0.09673118591308594s
+2022-03-17 21:51:30,317 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:30] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:30,323 - INFO - classification_resource.py: 33 - post() - request_id: 2, content: 午时三刻新作《幻神录―宿命情缘》 ...
+2022-03-17 21:51:30,436 - INFO - classification_resource.py: 44 - post() - request_id: 2, result: {"status": "OK", "msg": "", "result": "游戏"} ..., cost time: 0.11306285858154297s
+2022-03-17 21:51:30,437 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:30] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:30,443 - INFO - classification_resource.py: 33 - post() - request_id: 3, content: 欧司朗LLFY网络提供一站式照明解决方案 ...
+2022-03-17 21:51:30,555 - INFO - classification_resource.py: 44 - post() - request_id: 3, result: {"status": "OK", "msg": "", "result": "家居"} ..., cost time: 0.11223816871643066s
+2022-03-17 21:51:30,556 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:30] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:30,560 - INFO - classification_resource.py: 33 - post() - request_id: 4, content: 试探北京楼市向何方：排不完的队　涨不够的价 ...
+2022-03-17 21:51:30,665 - INFO - classification_resource.py: 44 - post() - request_id: 4, result: {"status": "OK", "msg": "", "result": "房产"} ..., cost time: 0.10497307777404785s
+2022-03-17 21:51:30,665 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:30] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:30,671 - INFO - classification_resource.py: 33 - post() - request_id: 5, content: 个性测试：测你的生活无趣指数(图) ...
+2022-03-17 21:51:30,796 - INFO - classification_resource.py: 44 - post() - request_id: 5, result: {"status": "OK", "msg": "", "result": "星座"} ..., cost time: 0.12532567977905273s
+2022-03-17 21:51:30,796 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:30] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:30,801 - INFO - classification_resource.py: 33 - post() - request_id: 6, content: 浙江女排战前遇下马威天津球迷微博发出“威胁” ...
+2022-03-17 21:51:30,902 - INFO - classification_resource.py: 44 - post() - request_id: 6, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.10055971145629883s
+2022-03-17 21:51:30,902 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:30] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:30,907 - INFO - classification_resource.py: 33 - post() - request_id: 7, content: 澳央行行长重申未来需要加息 ...
+2022-03-17 21:51:30,992 - INFO - classification_resource.py: 44 - post() - request_id: 7, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.0856781005859375s
+2022-03-17 21:51:30,993 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:30] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:30,997 - INFO - classification_resource.py: 33 - post() - request_id: 8, content: 海地总统选举第二轮投票将推迟举行 ...
+2022-03-17 21:51:31,084 - INFO - classification_resource.py: 44 - post() - request_id: 8, result: {"status": "OK", "msg": "", "result": "时政"} ..., cost time: 0.08683514595031738s
+2022-03-17 21:51:31,084 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:31] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:31,088 - INFO - classification_resource.py: 33 - post() - request_id: 9, content: 苹果中国学生机开卖最高优惠1600元 ...
+2022-03-17 21:51:31,214 - INFO - classification_resource.py: 44 - post() - request_id: 9, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.12584209442138672s
+2022-03-17 21:51:31,214 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:31] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:31,219 - INFO - classification_resource.py: 33 - post() - request_id: 10, content: 黄金分割位有支撑短期股指有望止跌企稳 ...
+2022-03-17 21:51:31,313 - INFO - classification_resource.py: 44 - post() - request_id: 10, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.09420394897460938s
+2022-03-17 21:51:31,313 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:31] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:31,317 - INFO - classification_resource.py: 33 - post() - request_id: 11, content: 英国政府建议各部门每天发布2-10条微博客 ...
+2022-03-17 21:51:31,412 - INFO - classification_resource.py: 44 - post() - request_id: 11, result: {"status": "OK", "msg": "", "result": "时政"} ..., cost time: 0.0953829288482666s
+2022-03-17 21:51:31,413 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:31] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:31,417 - INFO - classification_resource.py: 33 - post() - request_id: 12, content: 网游“吸金”新玩法 ...
+2022-03-17 21:51:31,500 - INFO - classification_resource.py: 44 - post() - request_id: 12, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.08382415771484375s
+2022-03-17 21:51:31,501 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:31] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:31,505 - INFO - classification_resource.py: 33 - post() - request_id: 13, content: 短讯-阿森纳之王表态不回欧洲亨利在欧洲已赢得一切 ...
+2022-03-17 21:51:31,624 - INFO - classification_resource.py: 44 - post() - request_id: 13, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.11885428428649902s
+2022-03-17 21:51:31,624 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:31] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:31,628 - INFO - classification_resource.py: 33 - post() - request_id: 14, content: 美男子因不满银行一怒推平豪宅 ...
+2022-03-17 21:51:31,743 - INFO - classification_resource.py: 44 - post() - request_id: 14, result: {"status": "OK", "msg": "", "result": "房产"} ..., cost time: 0.11549687385559082s
+2022-03-17 21:51:31,744 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:31] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:31,748 - INFO - classification_resource.py: 33 - post() - request_id: 15, content: 刘孜喜得贵子不退出娱乐圈儿子名字叫NEMO ...
+2022-03-17 21:51:31,845 - INFO - classification_resource.py: 44 - post() - request_id: 15, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.0964810848236084s
+2022-03-17 21:51:31,845 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:31] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:31,849 - INFO - classification_resource.py: 33 - post() - request_id: 16, content: 智能图像调节索尼46寸液晶再次降价 ...
+2022-03-17 21:51:31,934 - INFO - classification_resource.py: 44 - post() - request_id: 16, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.08475804328918457s
+2022-03-17 21:51:31,934 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:31] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:31,938 - INFO - classification_resource.py: 33 - post() - request_id: 17, content: 特别奉献：08-09赛季德甲威廉希尔-SSP赔率回顾 ...
+2022-03-17 21:51:32,046 - INFO - classification_resource.py: 44 - post() - request_id: 17, result: {"status": "OK", "msg": "", "result": "彩票"} ..., cost time: 0.10825800895690918s
+2022-03-17 21:51:32,047 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:32] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:32,050 - INFO - classification_resource.py: 33 - post() - request_id: 18, content: 空姐利用反恐技能智斗绑匪助破抢劫杀人大案 ...
+2022-03-17 21:51:32,144 - INFO - classification_resource.py: 44 - post() - request_id: 18, result: {"status": "OK", "msg": "", "result": "社会"} ..., cost time: 0.09349703788757324s
+2022-03-17 21:51:32,144 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:32] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:32,148 - INFO - classification_resource.py: 33 - post() - request_id: 19, content: 中国人寿母公司减持金隅300万股 ...
+2022-03-17 21:51:32,228 - INFO - classification_resource.py: 44 - post() - request_id: 19, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.08058404922485352s
+2022-03-17 21:51:32,229 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:32] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:32,233 - INFO - classification_resource.py: 33 - post() - request_id: 20, content: 创新层出不穷基金有望参与REITs ...
+2022-03-17 21:51:32,317 - INFO - classification_resource.py: 44 - post() - request_id: 20, result: {"status": "OK", "msg": "", "result": "财经"} ..., cost time: 0.08487892150878906s
+2022-03-17 21:51:32,318 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:32] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:32,321 - INFO - classification_resource.py: 33 - post() - request_id: 21, content: 白宫不相信伊朗生产出纯度20%浓缩铀 ...
+2022-03-17 21:51:32,413 - INFO - classification_resource.py: 44 - post() - request_id: 21, result: {"status": "OK", "msg": "", "result": "时政"} ..., cost time: 0.09109020233154297s
+2022-03-17 21:51:32,413 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:32] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:32,417 - INFO - classification_resource.py: 33 - post() - request_id: 22, content: 商业周刊：Adobe借收购Omniture实现业务增长 ...
+2022-03-17 21:51:32,529 - INFO - classification_resource.py: 44 - post() - request_id: 22, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.1123819351196289s
+2022-03-17 21:51:32,530 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:32] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:32,539 - INFO - classification_resource.py: 33 - post() - request_id: 23, content: 事业单位今后不得炒股票和期货 ...
+2022-03-17 21:51:32,626 - INFO - classification_resource.py: 44 - post() - request_id: 23, result: {"status": "OK", "msg": "", "result": "财经"} ..., cost time: 0.08774614334106445s
+2022-03-17 21:51:32,627 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:32] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:32,631 - INFO - classification_resource.py: 33 - post() - request_id: 24, content: 组图：文咏珊多款潮装拍广告演绎冬日浪漫气息 ...
+2022-03-17 21:51:32,728 - INFO - classification_resource.py: 44 - post() - request_id: 24, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.09683108329772949s
+2022-03-17 21:51:32,728 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:32] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:32,732 - INFO - classification_resource.py: 33 - post() - request_id: 25, content: 顾客欲退问题手机被促销员邀人砍伤(组图) ...
+2022-03-17 21:51:32,840 - INFO - classification_resource.py: 44 - post() - request_id: 25, result: {"status": "OK", "msg": "", "result": "社会"} ..., cost time: 0.1080629825592041s
+2022-03-17 21:51:32,841 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:32] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:32,844 - INFO - classification_resource.py: 33 - post() - request_id: 26, content: 裴勇俊韩国宣传广告日本首播将全世界陆续播出 ...
+2022-03-17 21:51:32,941 - INFO - classification_resource.py: 44 - post() - request_id: 26, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.09700703620910645s
+2022-03-17 21:51:32,942 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:32] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:32,945 - INFO - classification_resource.py: 33 - post() - request_id: 27, content: 股指震荡走高券商股整体涨幅居前 ...
+2022-03-17 21:51:33,041 - INFO - classification_resource.py: 44 - post() - request_id: 27, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.09572005271911621s
+2022-03-17 21:51:33,042 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:33,046 - INFO - classification_resource.py: 33 - post() - request_id: 28, content: 标杆工程的特点及优势 ...
+2022-03-17 21:51:33,132 - INFO - classification_resource.py: 44 - post() - request_id: 28, result: {"status": "OK", "msg": "", "result": "家居"} ..., cost time: 0.08587002754211426s
+2022-03-17 21:51:33,132 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:33,136 - INFO - classification_resource.py: 33 - post() - request_id: 29, content: 彩民网购彩票中800万大奖疑似次日中奖号码被改 ...
+2022-03-17 21:51:33,238 - INFO - classification_resource.py: 44 - post() - request_id: 29, result: {"status": "OK", "msg": "", "result": "彩票"} ..., cost time: 0.10235285758972168s
+2022-03-17 21:51:33,239 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:33,242 - INFO - classification_resource.py: 33 - post() - request_id: 30, content: 关于美国石膏板事件的情况通报 ...
+2022-03-17 21:51:33,327 - INFO - classification_resource.py: 44 - post() - request_id: 30, result: {"status": "OK", "msg": "", "result": "家居"} ..., cost time: 0.0843360424041748s
+2022-03-17 21:51:33,327 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:33,331 - INFO - classification_resource.py: 33 - post() - request_id: 31, content: 表演系考生的非典型赶考史：揣着抗抑郁药 ...
+2022-03-17 21:51:33,426 - INFO - classification_resource.py: 44 - post() - request_id: 31, result: {"status": "OK", "msg": "", "result": "教育"} ..., cost time: 0.09534001350402832s
+2022-03-17 21:51:33,427 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:33,431 - INFO - classification_resource.py: 33 - post() - request_id: 32, content: 盘点：让你轻松刮掉油脂的七个小窍门(组图) ...
+2022-03-17 21:51:33,527 - INFO - classification_resource.py: 44 - post() - request_id: 32, result: {"status": "OK", "msg": "", "result": "时尚"} ..., cost time: 0.09637284278869629s
+2022-03-17 21:51:33,527 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:33,531 - INFO - classification_resource.py: 33 - post() - request_id: 33, content: i3芯配HD6470惠普G4娱乐本仅3999元 ...
+2022-03-17 21:51:33,622 - INFO - classification_resource.py: 44 - post() - request_id: 33, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.09078288078308105s
+2022-03-17 21:51:33,622 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:33,626 - INFO - classification_resource.py: 33 - post() - request_id: 34, content: 基站拆除导致用户通信失常运营商仅赔付50元 ...
+2022-03-17 21:51:33,724 - INFO - classification_resource.py: 44 - post() - request_id: 34, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.09821796417236328s
+2022-03-17 21:51:33,724 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:33,728 - INFO - classification_resource.py: 33 - post() - request_id: 35, content: 低估值品种相对强势短线走势难有大的下跌空间 ...
+2022-03-17 21:51:33,825 - INFO - classification_resource.py: 44 - post() - request_id: 35, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.09675312042236328s
+2022-03-17 21:51:33,826 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:33,829 - INFO - classification_resource.py: 33 - post() - request_id: 36, content: 刘鹏携台湾同胞登顶宝岛第一锋坦言期待共同辉煌 ...
+2022-03-17 21:51:33,928 - INFO - classification_resource.py: 44 - post() - request_id: 36, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.09886574745178223s
+2022-03-17 21:51:33,929 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:33] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:33,932 - INFO - classification_resource.py: 33 - post() - request_id: 37, content: EA公布《生化危机5取舍版》发售日 ...
+2022-03-17 21:51:34,020 - INFO - classification_resource.py: 44 - post() - request_id: 37, result: {"status": "OK", "msg": "", "result": "游戏"} ..., cost time: 0.08803319931030273s
+2022-03-17 21:51:34,021 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:34] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:34,025 - INFO - classification_resource.py: 33 - post() - request_id: 38, content: 老年人口增多幸福城打造养老新社区南丽湖1号 ...
+2022-03-17 21:51:34,122 - INFO - classification_resource.py: 44 - post() - request_id: 38, result: {"status": "OK", "msg": "", "result": "房产"} ..., cost time: 0.09763622283935547s
+2022-03-17 21:51:34,123 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:34] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:34,126 - INFO - classification_resource.py: 33 - post() - request_id: 39, content: 英国航空上半财年净亏损扩大至3.45亿美元 ...
+2022-03-17 21:51:34,227 - INFO - classification_resource.py: 44 - post() - request_id: 39, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.10051274299621582s
+2022-03-17 21:51:34,227 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:34] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:34,231 - INFO - classification_resource.py: 33 - post() - request_id: 40, content: 刘嘉玲到灵隐寺求子未见梁朝伟同行(图) ...
+2022-03-17 21:51:34,322 - INFO - classification_resource.py: 44 - post() - request_id: 40, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.0907888412475586s
+2022-03-17 21:51:34,322 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:34] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:34,326 - INFO - classification_resource.py: 33 - post() - request_id: 41, content: 李章洙：来青岛就是要全取3分誓要拿下韩帅德比 ...
+2022-03-17 21:51:34,423 - INFO - classification_resource.py: 44 - post() - request_id: 41, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.09738302230834961s
+2022-03-17 21:51:34,424 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:34] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:34,427 - INFO - classification_resource.py: 33 - post() - request_id: 42, content: 固安橘洲前期售罄后期待推1-4居板楼新房源 ...
+2022-03-17 21:51:34,527 - INFO - classification_resource.py: 44 - post() - request_id: 42, result: {"status": "OK", "msg": "", "result": "房产"} ..., cost time: 0.09989309310913086s
+2022-03-17 21:51:34,528 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:34] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:34,531 - INFO - classification_resource.py: 33 - post() - request_id: 43, content: 九阴君子堂必通神曲律动江湖碧海潮生 ...
+2022-03-17 21:51:34,619 - INFO - classification_resource.py: 44 - post() - request_id: 43, result: {"status": "OK", "msg": "", "result": "游戏"} ..., cost time: 0.08760499954223633s
+2022-03-17 21:51:34,619 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:34] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:34,623 - INFO - classification_resource.py: 33 - post() - request_id: 44, content: 新华都云南白药否认捐股陈发树身陷悔捐门 ...
+2022-03-17 21:51:34,734 - INFO - classification_resource.py: 44 - post() - request_id: 44, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.11054611206054688s
+2022-03-17 21:51:34,734 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:34] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:34,738 - INFO - classification_resource.py: 33 - post() - request_id: 45, content: 友好集团：午后快速拉升干细胞股活跃 ...
+2022-03-17 21:51:34,830 - INFO - classification_resource.py: 44 - post() - request_id: 45, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.09184432029724121s
+2022-03-17 21:51:34,830 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:34] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:34,834 - INFO - classification_resource.py: 33 - post() - request_id: 46, content: 林熙蕾姐弟恋玩完朱孝天：我背叛了你 ...
+2022-03-17 21:51:34,923 - INFO - classification_resource.py: 44 - post() - request_id: 46, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.0882258415222168s
+2022-03-17 21:51:34,923 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:34] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:34,927 - INFO - classification_resource.py: 33 - post() - request_id: 47, content: 斯奈德奥德杰领衔闲置外援苏粤新是否为冠军换将 ...
+2022-03-17 21:51:35,033 - INFO - classification_resource.py: 44 - post() - request_id: 47, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.10608911514282227s
+2022-03-17 21:51:35,033 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:35] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:35,037 - INFO - classification_resource.py: 33 - post() - request_id: 48, content: 戴姆勒二季度息税前利润增长23%超预期 ...
+2022-03-17 21:51:35,129 - INFO - classification_resource.py: 44 - post() - request_id: 48, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.09191203117370605s
+2022-03-17 21:51:35,129 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:35] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:35,133 - INFO - classification_resource.py: 33 - post() - request_id: 49, content: 招金矿业急攀7.5%黄金产量劲增大行齐呼买入 ...
+2022-03-17 21:51:35,243 - INFO - classification_resource.py: 44 - post() - request_id: 49, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.110321044921875s
+2022-03-17 21:51:35,244 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:35] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:35,247 - INFO - classification_resource.py: 33 - post() - request_id: 50, content: 盛大游戏朱继盛网游就是信息化 ...
+2022-03-17 21:51:35,331 - INFO - classification_resource.py: 44 - post() - request_id: 50, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.08441400527954102s
+2022-03-17 21:51:35,332 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:35] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:35,336 - INFO - classification_resource.py: 33 - post() - request_id: 51, content: 木地板未来5年间将取代地砖成为家装主力？ ...
+2022-03-17 21:51:35,430 - INFO - classification_resource.py: 44 - post() - request_id: 51, result: {"status": "OK", "msg": "", "result": "家居"} ..., cost time: 0.0941629409790039s
+2022-03-17 21:51:35,430 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:35] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:35,434 - INFO - classification_resource.py: 33 - post() - request_id: 52, content: 太空易内线低迷外线威猛三分大赛阿联轻松摘榜眼 ...
+2022-03-17 21:51:35,536 - INFO - classification_resource.py: 44 - post() - request_id: 52, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.1023252010345459s
+2022-03-17 21:51:35,537 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:35] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:35,541 - INFO - classification_resource.py: 33 - post() - request_id: 53, content: 易建联末节几乎被忘却进攻手段太少应学瑞典新秀 ...
+2022-03-17 21:51:35,637 - INFO - classification_resource.py: 44 - post() - request_id: 53, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.09590888023376465s
+2022-03-17 21:51:35,637 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:35] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:35,641 - INFO - classification_resource.py: 33 - post() - request_id: 54, content: 经典S60强力升级诺基亚C5-005MP发布 ...
+2022-03-17 21:51:35,731 - INFO - classification_resource.py: 44 - post() - request_id: 54, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.09002518653869629s
+2022-03-17 21:51:35,731 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:35] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:35,735 - INFO - classification_resource.py: 33 - post() - request_id: 55, content: 图文：英国海盗岛仅售9.5万英镑 ...
+2022-03-17 21:51:35,822 - INFO - classification_resource.py: 44 - post() - request_id: 55, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.08729410171508789s
+2022-03-17 21:51:35,822 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:35] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:35,826 - INFO - classification_resource.py: 33 - post() - request_id: 56, content: 周末要闻回顾：番茄花园作者被批准逮捕 ...
+2022-03-17 21:51:35,917 - INFO - classification_resource.py: 44 - post() - request_id: 56, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.09124302864074707s
+2022-03-17 21:51:35,918 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:35] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:35,921 - INFO - classification_resource.py: 33 - post() - request_id: 57, content: 多家新基金上演基金经理金蝉脱壳 ...
+2022-03-17 21:51:36,006 - INFO - classification_resource.py: 44 - post() - request_id: 57, result: {"status": "OK", "msg": "", "result": "财经"} ..., cost time: 0.0847480297088623s
+2022-03-17 21:51:36,006 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:36,010 - INFO - classification_resource.py: 33 - post() - request_id: 58, content: 世乒赛详细赛程：中国男队首战法国女队战意大利 ...
+2022-03-17 21:51:36,110 - INFO - classification_resource.py: 44 - post() - request_id: 58, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.09933185577392578s
+2022-03-17 21:51:36,110 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:36,114 - INFO - classification_resource.py: 33 - post() - request_id: 59, content: 3名女大学生身穿比基尼宣传择偶观(图) ...
+2022-03-17 21:51:36,207 - INFO - classification_resource.py: 44 - post() - request_id: 59, result: {"status": "OK", "msg": "", "result": "社会"} ..., cost time: 0.09320974349975586s
+2022-03-17 21:51:36,208 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:36,212 - INFO - classification_resource.py: 33 - post() - request_id: 60, content: 大S汪小菲鸟笼内换婚戒蜡烛全部日本进口(图) ...
+2022-03-17 21:51:36,308 - INFO - classification_resource.py: 44 - post() - request_id: 60, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.09661579132080078s
+2022-03-17 21:51:36,309 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:36,312 - INFO - classification_resource.py: 33 - post() - request_id: 61, content: 黄金板块继续上扬美盘期金触及近期高点 ...
+2022-03-17 21:51:36,408 - INFO - classification_resource.py: 44 - post() - request_id: 61, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.09527587890625s
+2022-03-17 21:51:36,408 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:36,412 - INFO - classification_resource.py: 33 - post() - request_id: 62, content: 七旬老太为救重病女儿街头卖报(图) ...
+2022-03-17 21:51:36,500 - INFO - classification_resource.py: 44 - post() - request_id: 62, result: {"status": "OK", "msg": "", "result": "社会"} ..., cost time: 0.08869099617004395s
+2022-03-17 21:51:36,501 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:36,505 - INFO - classification_resource.py: 33 - post() - request_id: 63, content: 以色列外长称真主党兵工厂扩大3倍 ...
+2022-03-17 21:51:36,588 - INFO - classification_resource.py: 44 - post() - request_id: 63, result: {"status": "OK", "msg": "", "result": "时政"} ..., cost time: 0.08356881141662598s
+2022-03-17 21:51:36,589 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:36,592 - INFO - classification_resource.py: 33 - post() - request_id: 64, content: 多一些耐心等待明确的止跌信号 ...
+2022-03-17 21:51:36,679 - INFO - classification_resource.py: 44 - post() - request_id: 64, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.08678030967712402s
+2022-03-17 21:51:36,680 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:36,683 - INFO - classification_resource.py: 33 - post() - request_id: 65, content: 进名人堂斯隆竟无半点惊喜失挚友亲朋他悲伤不已 ...
+2022-03-17 21:51:36,780 - INFO - classification_resource.py: 44 - post() - request_id: 65, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.09674310684204102s
+2022-03-17 21:51:36,781 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:36,784 - INFO - classification_resource.py: 33 - post() - request_id: 66, content: 詹天佑双色球10134期分布图：防守冷码回温(图) ...
+2022-03-17 21:51:36,881 - INFO - classification_resource.py: 44 - post() - request_id: 66, result: {"status": "OK", "msg": "", "result": "彩票"} ..., cost time: 0.09664297103881836s
+2022-03-17 21:51:36,881 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:36,885 - INFO - classification_resource.py: 33 - post() - request_id: 67, content: 沪指震荡走弱跌10点权重股无量反弹 ...
+2022-03-17 21:51:36,976 - INFO - classification_resource.py: 44 - post() - request_id: 67, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.09086060523986816s
+2022-03-17 21:51:36,977 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:36] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:36,982 - INFO - classification_resource.py: 33 - post() - request_id: 68, content: 卧室首选机型最实惠32寸液晶电视盘点 ...
+2022-03-17 21:51:37,079 - INFO - classification_resource.py: 44 - post() - request_id: 68, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.09713530540466309s
+2022-03-17 21:51:37,079 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:37] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:37,083 - INFO - classification_resource.py: 33 - post() - request_id: 69, content: 联通网上商城开售WiFi版8GBiPhone3GS ...
+2022-03-17 21:51:37,171 - INFO - classification_resource.py: 44 - post() - request_id: 69, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.08753800392150879s
+2022-03-17 21:51:37,171 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:37] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:37,175 - INFO - classification_resource.py: 33 - post() - request_id: 70, content: 鄢颇所属经纪公司昨发表声明期盼警方严惩凶手 ...
+2022-03-17 21:51:37,279 - INFO - classification_resource.py: 44 - post() - request_id: 70, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.10444188117980957s
+2022-03-17 21:51:37,280 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:37] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:37,284 - INFO - classification_resource.py: 33 - post() - request_id: 71, content: 中农大开高校先例学生转专业实行“零门槛” ...
+2022-03-17 21:51:37,378 - INFO - classification_resource.py: 44 - post() - request_id: 71, result: {"status": "OK", "msg": "", "result": "教育"} ..., cost time: 0.09459781646728516s
+2022-03-17 21:51:37,379 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:37] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:37,382 - INFO - classification_resource.py: 33 - post() - request_id: 72, content: 乐购无限买新泰和卫浴赢汽车 ...
+2022-03-17 21:51:37,469 - INFO - classification_resource.py: 44 - post() - request_id: 72, result: {"status": "OK", "msg": "", "result": "家居"} ..., cost time: 0.08682799339294434s
+2022-03-17 21:51:37,470 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:37] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:37,474 - INFO - classification_resource.py: 33 - post() - request_id: 73, content: 保险三巨头暗战555亿退保金 ...
+2022-03-17 21:51:37,559 - INFO - classification_resource.py: 44 - post() - request_id: 73, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.08516407012939453s
+2022-03-17 21:51:37,560 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:37] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:37,563 - INFO - classification_resource.py: 33 - post() - request_id: 74, content: 恬妞忆叶聪豪：结婚当天就该离想有第三次婚姻 ...
+2022-03-17 21:51:37,659 - INFO - classification_resource.py: 44 - post() - request_id: 74, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.0958709716796875s
+2022-03-17 21:51:37,660 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:37] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:37,663 - INFO - classification_resource.py: 33 - post() - request_id: 75, content: 王祖蓝自豪善于模仿女人感恩自己生得短小(图) ...
+2022-03-17 21:51:37,763 - INFO - classification_resource.py: 44 - post() - request_id: 75, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.09976387023925781s
+2022-03-17 21:51:37,763 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:37] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:37,767 - INFO - classification_resource.py: 33 - post() - request_id: 76, content: 刘灏：给向布什扔鞋记者和平奖还是解聘书 ...
+2022-03-17 21:51:37,860 - INFO - classification_resource.py: 44 - post() - request_id: 76, result: {"status": "OK", "msg": "", "result": "时政"} ..., cost time: 0.09254884719848633s
+2022-03-17 21:51:37,860 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:37] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:37,864 - INFO - classification_resource.py: 33 - post() - request_id: 77, content: 魏明伦美食接风好友贾平凹喊饿余秋雨隐身(图) ...
+2022-03-17 21:51:37,963 - INFO - classification_resource.py: 44 - post() - request_id: 77, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.09923934936523438s
+2022-03-17 21:51:37,963 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:37] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:37,967 - INFO - classification_resource.py: 33 - post() - request_id: 78, content: 主流PC厂商将推多款AMD处理器笔记本 ...
+2022-03-17 21:51:38,064 - INFO - classification_resource.py: 44 - post() - request_id: 78, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.0968940258026123s
+2022-03-17 21:51:38,065 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:38,069 - INFO - classification_resource.py: 33 - post() - request_id: 79, content: 意大利米兰将办离婚展专家支招如何分手 ...
+2022-03-17 21:51:38,161 - INFO - classification_resource.py: 44 - post() - request_id: 79, result: {"status": "OK", "msg": "", "result": "时政"} ..., cost time: 0.09249305725097656s
+2022-03-17 21:51:38,161 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:38,165 - INFO - classification_resource.py: 33 - post() - request_id: 80, content: 淮阴中学阳光女孩获推荐北大最高票 ...
+2022-03-17 21:51:38,250 - INFO - classification_resource.py: 44 - post() - request_id: 80, result: {"status": "OK", "msg": "", "result": "教育"} ..., cost time: 0.08469486236572266s
+2022-03-17 21:51:38,250 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:38,254 - INFO - classification_resource.py: 33 - post() - request_id: 81, content: 不花冤枉钱五千元玩转主流移动PC市场 ...
+2022-03-17 21:51:38,349 - INFO - classification_resource.py: 44 - post() - request_id: 81, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.09476828575134277s
+2022-03-17 21:51:38,349 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:38,353 - INFO - classification_resource.py: 33 - post() - request_id: 82, content: 解振华谈中国应对气候变化原则立场 ...
+2022-03-17 21:51:38,438 - INFO - classification_resource.py: 44 - post() - request_id: 82, result: {"status": "OK", "msg": "", "result": "时政"} ..., cost time: 0.0851430892944336s
+2022-03-17 21:51:38,439 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:38,442 - INFO - classification_resource.py: 33 - post() - request_id: 83, content: 3名小偷行窃被发现后招来老乡围攻民警 ...
+2022-03-17 21:51:38,534 - INFO - classification_resource.py: 44 - post() - request_id: 83, result: {"status": "OK", "msg": "", "result": "社会"} ..., cost time: 0.09133625030517578s
+2022-03-17 21:51:38,534 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:38,538 - INFO - classification_resource.py: 33 - post() - request_id: 84, content: 荣丰国际第三季亏损扩大至1000万元 ...
+2022-03-17 21:51:38,626 - INFO - classification_resource.py: 44 - post() - request_id: 84, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.08819293975830078s
+2022-03-17 21:51:38,627 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:38,631 - INFO - classification_resource.py: 33 - post() - request_id: 85, content: 江南春出任央视三维CEO否认进入无线事业 ...
+2022-03-17 21:51:38,725 - INFO - classification_resource.py: 44 - post() - request_id: 85, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.09356427192687988s
+2022-03-17 21:51:38,725 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:38,729 - INFO - classification_resource.py: 33 - post() - request_id: 86, content: 围甲第15轮古力率重庆横扫大连保级战上海胜广西 ...
+2022-03-17 21:51:38,827 - INFO - classification_resource.py: 44 - post() - request_id: 86, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.0982217788696289s
+2022-03-17 21:51:38,828 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:38,832 - INFO - classification_resource.py: 33 - post() - request_id: 87, content: 美股一周前瞻：多重刺激政策或助推经济复苏 ...
+2022-03-17 21:51:38,934 - INFO - classification_resource.py: 44 - post() - request_id: 87, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.10154318809509277s
+2022-03-17 21:51:38,934 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:38] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:38,938 - INFO - classification_resource.py: 33 - post() - request_id: 88, content: 美国卫星电视提供商Dish同意10亿美元收购DBSD ...
+2022-03-17 21:51:39,035 - INFO - classification_resource.py: 44 - post() - request_id: 88, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.09667825698852539s
+2022-03-17 21:51:39,035 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:39,039 - INFO - classification_resource.py: 33 - post() - request_id: 89, content: 天津2011年9月成绩转档申请办理完毕 ...
+2022-03-17 21:51:39,137 - INFO - classification_resource.py: 44 - post() - request_id: 89, result: {"status": "OK", "msg": "", "result": "教育"} ..., cost time: 0.09787702560424805s
+2022-03-17 21:51:39,138 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:39,141 - INFO - classification_resource.py: 33 - post() - request_id: 90, content: 协警被辞退后仍以原身份向网吧收保护费 ...
+2022-03-17 21:51:39,240 - INFO - classification_resource.py: 44 - post() - request_id: 90, result: {"status": "OK", "msg": "", "result": "社会"} ..., cost time: 0.09832191467285156s
+2022-03-17 21:51:39,240 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:39,244 - INFO - classification_resource.py: 33 - post() - request_id: 91, content: 湘财证券：持币是最好的选择 ...
+2022-03-17 21:51:39,342 - INFO - classification_resource.py: 44 - post() - request_id: 91, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.09740424156188965s
+2022-03-17 21:51:39,342 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:39,346 - INFO - classification_resource.py: 33 - post() - request_id: 92, content: 快讯：江中药业控股集团改革放量冲高 ...
+2022-03-17 21:51:39,444 - INFO - classification_resource.py: 44 - post() - request_id: 92, result: {"status": "OK", "msg": "", "result": "股票"} ..., cost time: 0.09783601760864258s
+2022-03-17 21:51:39,445 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:39,449 - INFO - classification_resource.py: 33 - post() - request_id: 93, content: 预算2万如何选全套超值家电选购攻略 ...
+2022-03-17 21:51:39,548 - INFO - classification_resource.py: 44 - post() - request_id: 93, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.09938311576843262s
+2022-03-17 21:51:39,548 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:39,552 - INFO - classification_resource.py: 33 - post() - request_id: 94, content: IDC建议中小企业投身电子商务 ...
+2022-03-17 21:51:39,639 - INFO - classification_resource.py: 44 - post() - request_id: 94, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.08715486526489258s
+2022-03-17 21:51:39,640 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:39,644 - INFO - classification_resource.py: 33 - post() - request_id: 95, content: 牛津大学调查称日本宽带速度全球第一 ...
+2022-03-17 21:51:39,764 - INFO - classification_resource.py: 44 - post() - request_id: 95, result: {"status": "OK", "msg": "", "result": "科技"} ..., cost time: 0.12016797065734863s
+2022-03-17 21:51:39,765 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:39,769 - INFO - classification_resource.py: 33 - post() - request_id: 96, content: 传陈坤周迅恋情已获陈母默许(图) ...
+2022-03-17 21:51:39,858 - INFO - classification_resource.py: 44 - post() - request_id: 96, result: {"status": "OK", "msg": "", "result": "娱乐"} ..., cost time: 0.08902621269226074s
+2022-03-17 21:51:39,858 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:39,862 - INFO - classification_resource.py: 33 - post() - request_id: 97, content: 19岁男孩盗密码网购10余万元获刑 ...
+2022-03-17 21:51:39,948 - INFO - classification_resource.py: 44 - post() - request_id: 97, result: {"status": "OK", "msg": "", "result": "社会"} ..., cost time: 0.08579087257385254s
+2022-03-17 21:51:39,949 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:39] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:39,953 - INFO - classification_resource.py: 33 - post() - request_id: 98, content: 日本辐射物飘到美国赌城据称量微无害 ...
+2022-03-17 21:51:40,050 - INFO - classification_resource.py: 44 - post() - request_id: 98, result: {"status": "OK", "msg": "", "result": "时政"} ..., cost time: 0.09734511375427246s
+2022-03-17 21:51:40,050 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:40] "[37mPOST /cls HTTP/1.1[0m" 200 -
+2022-03-17 21:51:40,054 - INFO - classification_resource.py: 33 - post() - request_id: 99, content: 两盘录像带成国足救命稻草殷铁生：越南实力不俗 ...
+2022-03-17 21:51:40,153 - INFO - classification_resource.py: 44 - post() - request_id: 99, result: {"status": "OK", "msg": "", "result": "体育"} ..., cost time: 0.09837603569030762s
+2022-03-17 21:51:40,153 - INFO - _internal.py: 113 - _log() - 127.0.0.1 - - [17/Mar/2022 21:51:40] "[37mPOST /cls HTTP/1.1[0m" 200 -
