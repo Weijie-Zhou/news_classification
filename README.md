@@ -35,7 +35,7 @@ THUCNews是根据新浪新闻RSS订阅频道2005~2011年间的历史数据筛选
   - train_epochs：10
   - max_len：48
   - weight_decay：0.01
-  - focal_loss_gamma：4
+  - focal_loss_gamma：2
   - focal_loss_alpha：对体育、股票、科技标签的alpha权重设置为0.5，其他标签的alpha权重设置为1.0
 - 最终在测试集上评测得到的准确率为0.88769
 
@@ -54,7 +54,7 @@ THUCNews是根据新浪新闻RSS订阅频道2005~2011年间的历史数据筛选
   - train_epochs：20
   - max_len：48
   - weight_decay：0.01
-  - focal_loss_gamma：4
+  - focal_loss_gamma：2
   - focal_loss_alpha：对体育、股票、科技标签的alpha权重设置为0.5，其他标签的alpha权重设置为1.0
 - 最终在测试集上评测得到的准确率为0.88769
 
