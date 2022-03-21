@@ -58,7 +58,7 @@ model = BertClassificationModel(
     label_size=con.num_labels,
     device=device,
     loss_type='focal_loss',
-    focal_loss_gamma=4,
+    focal_loss_gamma=2,
     focal_loss_alpha= [1.0] + [1.0] + [1.0] + [0.5] + [0.5] + [1.0] + [1.0] + [1.0] + [1.0] + [1.0] + [1.0] + [1.0] + [0.5] + [1.0]
 )
 # 将模型设置为训练模式
